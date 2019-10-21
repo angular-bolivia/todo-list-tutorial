@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'todo-list-tutorial';
+  nuevaTarea = '';
+  listaTareas = [];
+
+  crearTarea() {
+    this.listaTareas.push(this.nuevaTarea);
+    console.log(this.listaTareas);
+    this.nuevaTarea = '';
+  }
 }

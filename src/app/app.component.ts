@@ -21,7 +21,7 @@ export class AppComponent {
     this.listaTareas.splice(index, 1);
   }
 
-  editar(index) {
+  marcarTareaComoCompletada(index) {
     const tarea = this.listaTareas[index];
     tarea.terminado = true;
     this.listaTareas[index] = tarea;

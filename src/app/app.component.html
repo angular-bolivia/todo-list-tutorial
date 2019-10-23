@@ -6,8 +6,16 @@
   </header>
   <section id="main" class="main">
     <ul id="todo-list" class="todo-list">
-      <li *ngFor="let tarea of listaTareas">
+      <li *ngFor="let tarea of listaTareas; index as i">
         <label>{{ tarea }}</label>
+        <label>
+         <a class="btn  btn-red" (click)="eliminarTarea(i)">
+           Eliminar
+         </a>
+         <button class="btn btn-red" (click)="editar(tarea, i)">
+           Editar
+         </button>
+        </label>
       </li>
     </ul>
   </section>

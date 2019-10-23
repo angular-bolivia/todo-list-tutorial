@@ -14,4 +14,15 @@ export class AppComponent {
     console.log(this.listaTareas);
     this.nuevaTarea = '';
   }
+
+  eliminarTarea(index) {
+    console.log(index);
+    this.listaTareas.splice(index, 1);
+    console.log(this.listaTareas);
+  }
+
+  editar(nuevaTarea, index) {
+    this.listaTareas[index] = 'Texto editado';
+  }
+
 }

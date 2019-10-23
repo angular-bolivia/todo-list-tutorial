@@ -21,7 +21,7 @@ export class AppComponent {
     console.log(this.listaTareas);
   }
 
-  editar(nuevaTarea, index) {
+  editar(index) {
     this.listaTareas[index] = 'Texto editado';
   }
 

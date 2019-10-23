@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Tarea } from './Tarea.model';
 
 @Component({
   selector: 'app-root',
@@ -7,22 +8,23 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nuevaTarea = '';
-  listaTareas = [];
+  listaTareas: Tarea[] = [];
 
   crearTarea() {
-    this.listaTareas.push(this.nuevaTarea);
+    const tarea = new Tarea(this.nuevaTarea, false);
+    this.listaTareas.push(tarea);
     console.log(this.listaTareas);
     this.nuevaTarea = '';
   }
 
   eliminarTarea(index) {
-    console.log(index);
     this.listaTareas.splice(index, 1);
-    console.log(this.listaTareas);
   }
 
   editar(index) {
-    this.listaTareas[index] = 'Texto editado';
+    const tarea = this.listaTareas[index];
+    tarea.terminado = true;
+    this.listaTareas[index] = tarea;
   }
 
 }

@@ -80,7 +80,7 @@ una vez descomprimido debemos entrar con la consola en el directorio
 [si deseas saber mas informacion acerca de comandos de consola](http://www.falconmasters.com/offtopic/como-utilizar-consola-de-windows/) por ejemplo mi proyecto esta en mi escritorio ire con este comando:
 
 > cd C:\Users\ **$tu-usuario** \Desktop\todo-list-tutorial
-## paso 5
+## Paso 5
 Por último escribiremos el comando de instalación. Este proceso puede tardar varios minutos ¡Puedes tomar un descanso!
 > npm install
 

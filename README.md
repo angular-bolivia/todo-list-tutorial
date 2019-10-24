@@ -57,7 +57,7 @@ Para la instalacion iremos a la [pagina oficial de VS Code](code.visualstudio.co
 
 ![](../todo-list-tutorial/recursos-readme/vs-code.png)
 
-instalaremos como cualquier programa
+Instalaremos como cualquier otro programa.
 
 # es momento de reiniciar tu computador
 es buena idea reiniciar tu computador

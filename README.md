@@ -8,7 +8,7 @@ Como pasa con todas las cosas nuevas va a ser una aventura, diviértete, una vez
 
 Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-bolivia.gitbook.io/workshop/).
 
-## Tercera Parte: Instalacion del entorno
+## Tercera Parte: Instalación del entorno
 
 Ya tenemos nuestro proyecto creado, pero si deseamos acceder a el debemos tener una coneccion a internet. Es en ese momento donde nos preguntamos como crear nuestros proyectos sin la necesidad de stackblitz la solucion node.js y angular/CLI
 

@@ -375,3 +375,20 @@ html .clear-completed:active {
     bottom: 10px;
   }
 }
+
+.btn {
+  background: lightseagreen;
+  color: #fff;
+  padding: 3px 10px;
+  margin: 0 0 0 3px;
+  border: none;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 24px;
+  cursor: pointer;
+  vertical-align: bottom;
+}
+
+.btn-red {
+  background: red;
+}

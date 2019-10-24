@@ -84,7 +84,7 @@ una vez descomprimido debemos entrar con la consola en el directorio
 por ultimo escribiremos el comando, este proceso puede tardar varios minutos, puedes tomar un descanso!
 > npm install
 
-## paso 6
+## Paso 6
 Usaremos VS Code, por lo tanto escribiremos el comando:
 > code .
 

@@ -16,7 +16,7 @@ Ya tenemos nuestro proyecto creado, pero si deseamos acceder a él debemos tener
 
 Node.js es un "entorno de ejecución para JavaScript", es decir para ejecutar JavaScript los desarrolladores necesitaban siempre un navegador como Chrome, Firefox entre otros, pero Node.js nos ofrece poderlo ejecutar por ejemplo en un servidor o en tu misma computadora. Cuando descargamos Node.js en nuestro ordenador viene con un gestor de paquetes llamado NPM (Node Package Manager) el cual te permite descargar librerías en cualquier proyecto Javascript.
 
-Angular CLI, es una libreria JavaScript que viene de la siglas Comand Line Interface (Interfaz de linea de comandos) es decir usaremos la consola para generar y construir los proyectos Angular.
+Angular CLI  es una librería JavaScript, su nombre viene de la siglas Command Line Interface (Interfaz de línea de comandos), es decir, usaremos la consola para generar y construir los proyectos Angular.
 
 > No le temas a la consola a medida con el tiempo tendras mas confiansa y entenderas todos los mensajes en blanco y negro que te apareceran
 

@@ -77,7 +77,7 @@ Le daremos click en el botón verde "Clone or download" y luego "Download ZIP".
 se descargara un zip, lo pondremos en una carpeta de tu preferencia y por ultimo lo descomprimimos
 ## paso 4
 una vez descomprimido debemos entrar con la consola en el directorio
-[si deseas saber mas informacion acerca de comandos de consola](http://www.falconmasters.com/offtopic/como-utilizar-consola-de-windows/) por ejemplo mi proyecto esta en mi escritorio ire con este comando:
+[Si deseas saber más acerca de comandos de consola](http://www.falconmasters.com/offtopic/como-utilizar-consola-de-windows/). Por ejemplo, mi proyecto está en mi escritorio, iré con este comando:
 
 > cd C:\Users\ **$tu-usuario** \Desktop\todo-list-tutorial
 ## Paso 5

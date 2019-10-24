@@ -77,7 +77,9 @@ Con esto ya tendras tu app transformada.
 
 ## Fuentes
 [https://developers.google.com/web/progressive-web-apps](https://developers.google.com/web/progressive-web-apps)
+
 [https://developers.google.com/web/fundamentals/web-app-manifest/?hl=es](https://developers.google.com/web/fundamentals/web-app-manifest/?hl=es)
+
 [https://seocom.agency/es/blog/introduccion-pwa/](https://seocom.agency/es/blog/introduccion-pwa/)
 
 <!-- RECURSOS -->

@@ -12,7 +12,7 @@ Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-boli
 
 Ya tenemos nuestro proyecto creado, pero si deseamos acceder a el debemos tener una coneccion a internet. Es en ese momento donde nos preguntamos como crear nuestros proyectos sin la necesidad de stackblitz la solucion node.js y angular/CLI
 
-## Node y Angular CLI?
+## ¿Node.js y Angular CLI?
 
 Node es un "entorno de ejecucion para JavaScript", es decir para ejecutar JavaScript los desarrolladores necesitaban siempre un navegador como Chrome, Firefox entre otros pero node nos ofrece poderlo ejecutarlo por ejemplo en un servidor o en tu misma computadora .Cuando descargamos Node en nuestro ordenador viene con un gestor de paquetes llamado NPM el cual te permite descargar librerias en cualquier proyecto Javascript.
 

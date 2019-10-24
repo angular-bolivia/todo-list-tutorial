@@ -65,7 +65,7 @@ es buena idea reiniciar tu computador
 ## Descargando nuestro proyecto
 
 ## Paso 1
-para descargar nuestro proyecto debemos ir a la [pagina](https://github.com/angular-bolivia/todo-list-tutorial.git)
+Para descargar nuestro proyecto debemos ir a la [página](https://github.com/angular-bolivia/todo-list-tutorial.git).
 
 ![](recursos-readme/github-angular.png)
 

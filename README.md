@@ -37,7 +37,7 @@ Se nos descargará un ejecutable, lo abriremos, en todos los pasos hacemos click
 ![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-2.png)
 
 ## Paso 3
-Para verificar si se instalo correctamente debemos abrir la consola y escribir 
+Para verificar si se instaló correctamente debemos abrir la consola y escribir:
 
 > node --version 
 

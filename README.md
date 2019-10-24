@@ -20,7 +20,7 @@ Angular CLI  es una librería JavaScript, su nombre viene de la siglas Command L
 
 > No le temas a la consola, a medida que pase el tiempo tendrás más confianza y entenderás todos los mensajes en blanco y negro que te aparecerán.
 
-Como lo mencianamos anteriormente node nos permite descargar liberias una de ellas es Angular CLI entonces procederemos a la instalacion 
+Como lo mencionamos anteriormente, Node.js nos permite descargar librerías. Una de ellas es Angular CLI, entonces procederemos a la instalación.
 
 ## Instalacion de Node.js
 

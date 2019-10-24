@@ -59,7 +59,7 @@ Para la instalacion iremos a la [pagina oficial de VS Code](code.visualstudio.co
 
 Instalaremos como cualquier otro programa.
 
-# es momento de reiniciar tu computador
+# Es momento de reiniciar tu computadora.
 es buena idea reiniciar tu computador
 
 ## Descargando nuestro proyecto

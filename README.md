@@ -45,7 +45,7 @@ Debería salir la versión que decía en la página cuando descargamos.
 
 ![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-3.png)
 
-## Instalacion de @angular/cli
+## Instalación de Angular CLI
 en la consola escribiremos el siguiente comando en nuestra consola, la cual servira para instalar a nivel global angular en nuestros ordenadores
 
 > npm install -g @angular/cli

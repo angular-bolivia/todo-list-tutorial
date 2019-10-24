@@ -69,7 +69,7 @@ Para descargar nuestro proyecto debemos ir a la [página](https://github.com/ang
 
 ![](recursos-readme/github-angular.png)
 
-## paso 2 
+## Paso 2
 Le daremos click en el botón verde "Clone or download" y luego "Download ZIP".
 ![](../todo-list-tutorial/recursos-readme/angular&#32;zip.png)
 

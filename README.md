@@ -31,7 +31,7 @@ Debemos ir a la pagina de Node.js: [pagina de node](https://nodejs.org/es/) y le
 
 ![](../todo-list-tutorial/recursos-readme/node.png)
 ## Paso 2
-Se nos descargara un ejecutable, le daremos click,en todos los pasos siguiente y ya estara listo
+Se nos descargará un ejecutable, lo abriremos, en todos los pasos hacemos click en "siguiente" y ya estará listo.
 
 ![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-1.png)
 ![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-2.png)

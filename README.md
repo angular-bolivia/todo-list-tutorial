@@ -81,7 +81,7 @@ una vez descomprimido debemos entrar con la consola en el directorio
 
 > cd C:\Users\ **$tu-usuario** \Desktop\todo-list-tutorial
 ## paso 5
-por ultimo escribiremos el comando, este proceso puede tardar varios minutos, puedes tomar un descanso!
+Por último escribiremos el comando de instalación. Este proceso puede tardar varios minutos ¡Puedes tomar un descanso!
 > npm install
 
 ## Paso 6

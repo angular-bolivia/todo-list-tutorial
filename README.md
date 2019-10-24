@@ -4,11 +4,11 @@ En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, 
 
 Como pasa con todas las cosas nuevas va a ser una aventura, diviértete, una vez que te has decidido a empezar, te va a ir fenomenal :)
 
-## Primera parte
+## Primera parte: crear todo list
 
 Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-bolivia.gitbook.io/workshop/).
 
-## Segunda Parte
+## Segunda parte: eliminar y editar tareas
 
 Ahora que sabemos crear Tareas llego la hora de eliminar y editar una tarea ya creada.
 
@@ -70,10 +70,10 @@ Ejemplo:
 
         ![crearTarea](./recursos-readme/appComponentCss.png)
 
-  - styles.css
-        Aquí añadiremos los estilos de nuestro botón de borrado.
+- styles.css
+  Aquí añadiremos los estilos de nuestro botón de borrado.
 
-    ![crearTarea](./recursos-readme/stylesCss.png)
+  ![crearTarea](./recursos-readme/stylesCss.png)
 
 - Paso 4: Por último editaremos el archivo app.component.html, esta modificación consta de los siguientes pasos:
 

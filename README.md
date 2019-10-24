@@ -85,7 +85,7 @@ por ultimo escribiremos el comando, este proceso puede tardar varios minutos, pu
 > npm install
 
 ## paso 6
-Usaremos VS code por lo tanto escribiremos el comando 
+Usaremos VS Code, por lo tanto escribiremos el comando:
 > code .
 
 Automáticamente se abrirá en Visual Studio Code, pero deseamos abrirlo en el navegado, así que escribiremos este comando en la consola:

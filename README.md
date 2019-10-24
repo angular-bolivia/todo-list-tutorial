@@ -18,7 +18,7 @@ Node.js es un "entorno de ejecución para JavaScript", es decir para ejecutar Ja
 
 Angular CLI  es una librería JavaScript, su nombre viene de la siglas Command Line Interface (Interfaz de línea de comandos), es decir, usaremos la consola para generar y construir los proyectos Angular.
 
-> No le temas a la consola a medida con el tiempo tendras mas confiansa y entenderas todos los mensajes en blanco y negro que te apareceran
+> No le temas a la consola, a medida que pase el tiempo tendrás más confianza y entenderás todos los mensajes en blanco y negro que te aparecerán.
 
 Como lo mencianamos anteriormente node nos permite descargar liberias una de ellas es Angular CLI entonces procederemos a la instalacion 
 

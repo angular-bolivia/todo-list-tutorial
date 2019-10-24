@@ -51,7 +51,7 @@ En la consola escribiremos el siguiente comando, el cual servirá para instalar 
 > npm install -g @angular/cli
 
 # instalacion de Visual studio Code
-una manera increible de programar es teniendo VS code, es un editor de texto muy potente el cual nos servira para poder programar en muchos lenguajes de programacion, pero este programa es preferido por los desarrolladores web.
+Una manera increíble de programar es teniendo VS Code. Es un editor de texto muy potente el cual nos servirá para poder programar en muchos lenguajes de programación. Este programa es muy popular entre los desarrolladores web.
 
 Para la instalacion iremos a la [pagina oficial de VS Code](code.visualstudio.com) y le daremos en descargar
 

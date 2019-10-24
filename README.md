@@ -41,7 +41,7 @@ Para verificar si se instaló correctamente debemos abrir la consola y escribir:
 
 > node --version 
 
-te deberia salir la version que decia en la pagina cuando descargaste
+Debería salir la versión que decía en la página cuando descargamos.
 
 ![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-3.png)
 

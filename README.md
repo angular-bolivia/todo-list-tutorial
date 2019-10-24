@@ -10,7 +10,7 @@ Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-boli
 
 ## Tercera Parte: Instalación del entorno
 
-Ya tenemos nuestro proyecto creado, pero si deseamos acceder a el debemos tener una coneccion a internet. Es en ese momento donde nos preguntamos como crear nuestros proyectos sin la necesidad de stackblitz la solucion node.js y angular/CLI
+Ya tenemos nuestro proyecto creado, pero si deseamos acceder a él debemos tener una conexión a internet. Es en ese momento donde nos preguntamos cómo crear nuestros proyectos sin la necesidad de stackblitz. La solución es Node.js y Angular CLI.
 
 ## ¿Node.js y Angular CLI?
 

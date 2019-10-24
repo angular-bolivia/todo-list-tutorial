@@ -27,7 +27,7 @@ Como lo mencionamos anteriormente, Node.js nos permite descargar librerías. Una
 El primer paso para instalar Angular en nuestro entorno es poder instalar Node.js.
 
 ## Paso 1
-debemos ir a la pagina de Node.js: [pagina de node](https://nodejs.org/es/) y le daremos click en descargar la ultima version
+Debemos ir a la pagina de Node.js: [pagina de node](https://nodejs.org/es/) y le daremos click en descargar la última versión.
 
 ![](../todo-list-tutorial/recursos-readme/node.png)
 ## Paso 2

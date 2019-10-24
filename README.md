@@ -4,11 +4,11 @@ En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, 
 
 Como pasa con todas las cosas nuevas va a ser una aventura, diviértete, una vez que te has decidido a empezar, te va a ir fenomenal :)
 
-## Primera parte
+## Primera parte: crear todo list
 
 Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-bolivia.gitbook.io/workshop/).
 
-## Segunda Parte
+## Segunda parte: eliminar y editar tareas
 
 Ahora que sabemos crear Tareas llego la hora de eliminar y editar una tarea ya creada.
 
@@ -95,7 +95,7 @@ Ejemplo:
 
   ![crearTarea](./recursos-readme/segundaParte.png)
 
-## Tercera Parte: Instalación del entorno
+## Tercera parte: instalación del entorno
 
 Ya tenemos nuestro proyecto creado, pero si deseamos acceder a él debemos tener una conexión a internet. Es en ese momento donde nos preguntamos cómo crear nuestros proyectos sin la necesidad de stackblitz. La solución es Node.js y Angular CLI.
 
@@ -136,7 +136,7 @@ En la consola escribiremos el siguiente comando, el cual servirá para instalar 
 
 > npm install -g @angular/cli
 
-# Instalación de Visual Studio Code
+## Instalación de Visual Studio Code
 
 Una manera increíble de programar es teniendo VS Code. Es un editor de texto muy potente el cual nos servirá para poder programar en muchos lenguajes de programación. Este programa es muy popular entre los desarrolladores web.
 
@@ -174,4 +174,4 @@ Automáticamente se abrirá en Visual Studio Code, pero deseamos abrirlo en el n
 
 Este comando está diciendo que se cree un servidor local en nuestro ordenador y el signo **-o** indica que cuando nuestro servidor esté listo, abra automáticamente el navegador. **Ten paciencia, puede demorar.**
 
-# ¡Felicidades, lo lograste!
+## ¡Felicidades, lo lograste!

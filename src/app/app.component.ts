@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Tarea } from './Tarea.model';
+import { Tarea } from './tarea.model';
 
 @Component({
   selector: 'app-root',
@@ -17,14 +17,12 @@ export class AppComponent {
     this.nuevaTarea = '';
   }
 
-  eliminarTarea(index) {
-    this.listaTareas.splice(index, 1);
+  eliminarTarea(indice) {
+    this.listaTareas.splice(indice, 1);
   }
 
-  marcarTareaComoCompletada(index) {
-    const tarea = this.listaTareas[index];
-    tarea.terminado = true;
-    this.listaTareas[index] = tarea;
+  marcarTareaComoCompletada(tarea, indice) {
+    tarea.completada = !tarea.completada;
+    this.listaTareas[indice] = tarea;
   }
-
 }

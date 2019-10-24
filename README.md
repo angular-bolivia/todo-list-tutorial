@@ -277,3 +277,29 @@ Con esto ya tendras tu app transformada.
 [what-is]: https://media.giphy.com/media/9DjUxx62m3Bo5SvHaL/giphy.gif
 [fire]: https://media.giphy.com/media/3KVcFEmdDl9NYaFTtx/giphy.gif
 [poke-evolution]: http://giphygifs.s3.amazonaws.com/media/pjsAgS0ZpaFvW/giphy.gif
+
+## Quinta parte: sube tu app a Firebase Hosting
+
+Firebase es una plataforma que se encarga de facilitarnos la vida al momento de crear aplicaciones web y mobile. Nos ofrece un montón de servicios:
+
+![Firebase servicios](recursos-readme/firebase.png)
+
+### Firebase Hosting
+
+Firebase Hosting es un servicio de alojamiento web, con el cual podremos alojar nuestra aplicación web para poder acceder a ella desde internet. Pero, ¿cómo lo hacemos?
+
+- Paso 1: Debemos crearnos una cuenta. Para ello ingresamos a [Firebase](https://firebase.google.com/) y Accedemos para crearnos una cuenta:
+
+![Firebase cuenta](recursos-readme/firebase-cuenta.png)
+
+- Paso 2: Tenemos que instalar **firebase-tools** en nuestra computadora. Para hacer eso debemos abrir una consola y correr el siguiente comando:
+
+```
+npm install -g firebase-tools
+```
+
+- Paso 3: Lo siguiente es ingresar a nuestra cuenta usando firebase-tools en nuestra computadora. Para eso corremos el siguiente comando en una consola:
+
+```
+firebase login
+```

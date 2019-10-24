@@ -4,6 +4,6 @@ En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, 
 
 Como pasa con todas las cosas nuevas va a ser una aventura, diviértete, una vez que te has decidido a empezar, te va a ir fenomenal :)
 
-## Primera parte
+## Primera parte: crear todo list
 
 Puedes encontrar la primera parte de este tutorial [aquí](https://ng-girls-bolivia.gitbook.io/workshop/).

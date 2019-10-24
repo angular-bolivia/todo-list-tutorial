@@ -88,7 +88,7 @@ por ultimo escribiremos el comando, este proceso puede tardar varios minutos, pu
 Usaremos VS code por lo tanto escribiremos el comando 
 > code .
 
-automaticamente se abrira en visual studio code, pero deseamos abrirlo en la consola entonces escribiremos este comando
+Automáticamente se abrirá en Visual Studio Code, pero deseamos abrirlo en el navegado, así que escribiremos este comando en la consola:
 
 > ng serve -o 
 

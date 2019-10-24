@@ -92,6 +92,6 @@ Automáticamente se abrirá en Visual Studio Code, pero deseamos abrirlo en el n
 
 > ng serve -o 
 
-este comando le esta diciendo que cree un servidor local en nuestro ordenador y el signo **-o** indica que cuando nuestro servidor este listo abra automaticamente el navegador, **ten paciencia puede demorar.**
+Este comando está diciendo que se cree un servidor local en nuestro ordenador y el signo **-o** indica que cuando nuestro servidor esté listo, abra automáticamente el navegador. **Ten paciencia, puede demorar.**
 
 # Felicidades lo lograste!!

@@ -22,7 +22,7 @@ Angular CLI  es una librería JavaScript, su nombre viene de la siglas Command L
 
 Como lo mencionamos anteriormente, Node.js nos permite descargar librerías. Una de ellas es Angular CLI, entonces procederemos a la instalación.
 
-## Instalacion de Node.js
+## Instalación de Node.js
 
 El primer paso para instalar angular en nuestro entorno es poder instalar Node.
 

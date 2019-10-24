@@ -8,10 +8,10 @@
     <ul id="todo-list" class="todo-list">
       <li *ngFor="let tarea of listaTareas; index as indice">
         <div class="todo-item">
-          <input type="checkbox" class="todo-checkbox" (click)="marcarTareaComoCompletada(tarea, indice)"/>
-          <label [ngClass]="{ 'tarea-completada': tarea.completada }">{{ tarea.detalle }}</label>
+          <input type="checkbox" class="todo-checkbox" (click)="marcarTareaComoCompletada(tarea)"/>
+          <span [ngClass]="{ 'tarea-completada': tarea.completada }" class="todo-title">{{ tarea.detalle }}</span>
           <label>
-            <button class="btn btn-red" (click)="eliminarTarea(tarea)">
+            <button class="btn btn-red" (click)="eliminarTarea(indice)">
               Eliminar
             </button>
           </label>

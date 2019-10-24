@@ -21,8 +21,7 @@ export class AppComponent {
     this.listaTareas.splice(indice, 1);
   }
 
-  marcarTareaComoCompletada(tarea, indice) {
+  marcarTareaComoCompletada(tarea) {
     tarea.completada = !tarea.completada;
-    this.listaTareas[indice] = tarea;
   }
 }

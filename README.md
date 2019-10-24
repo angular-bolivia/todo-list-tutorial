@@ -113,24 +113,21 @@ Como lo mencionamos anteriormente, Node.js nos permite descargar librerías. Una
  
 El primer paso para instalar Angular en nuestro entorno es poder instalar Node.js.
  
-## Paso 1
-Debemos ir a la pagina de Node.js: [pagina de node](https://nodejs.org/es/) y le daremos click en descargar la última versión.
+- Paso 1: Debemos ir a la pagina de Node.js: [pagina de node](https://nodejs.org/es/) y le daremos click en descargar la última versión.
  
-![](../todo-list-tutorial/recursos-readme/node.png)
-## Paso 2
-Se nos descargará un **ejecutable**, lo abriremos, en todos los pasos hacemos click en "siguiente" y ya estará listo.
+![](./recursos-readme/node.png)
+- Paso 2: Se nos descargará un **ejecutable**, lo abriremos, en todos los pasos hacemos click en "siguiente" y ya estará listo.
  
-![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-1.png)
-![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-2.png)
+![](./recursos-readme/nodejs-on-windows-1.png)
+![](./recursos-readme/nodejs-on-windows-2.png)
  
-## Paso 3
-Para verificar si se instaló correctamente debemos abrir la consola y escribir:
+- Paso 3: Para verificar si se instaló correctamente debemos abrir la consola y escribir:
  
 > node --version 
  
 Debería salir la versión que decía en la página cuando descargamos.
  
-![](../todo-list-tutorial/recursos-readme/nodejs-on-windows-3.png)
+![](./recursos-readme/nodejs-on-windows-3.png)
  
 ## Instalación de Angular CLI
 En la consola escribiremos el siguiente comando, el cual servirá para instalar a nivel global Angular en nuestros ordenadores.
@@ -142,34 +139,29 @@ Una manera increíble de programar es teniendo VS Code. Es un editor de texto mu
  
 Para la instalación iremos a la [página oficial de VS Code](code.visualstudio.com) y le daremos en descargar.
  
-![](../todo-list-tutorial/recursos-readme/vs-code.png)
+![](./recursos-readme/vs-code.png)
  
 Instalaremos como cualquier otro programa.
  
 ## Descargando nuestro proyecto
  
-## Paso 1
-Para descargar nuestro proyecto debemos ir a la [página](https://github.com/angular-bolivia/todo-list-tutorial.git).
+- Paso 1: Para descargar nuestro proyecto debemos ir a la [página](https://github.com/angular-boliv..git).
  
 ![](recursos-readme/github-angular.png)
  
-## Paso 2
-Le daremos click en el botón verde "Clone or download" y luego "Download ZIP".
-![](../todo-list-tutorial/recursos-readme/angular&#32;zip.png)
+- Paso 2: Le daremos click en el botón verde "Clone or download" y luego "Download ZIP".
+![](./recursos-readme/angular&#32;zip.png)
  
-## Paso 3
-Se descargará un ZIP, lo pondremos en la carpeta de tu preferencia y por último lo descomprimimos.
-## Paso 4
-Una vez descomprimido debemos entrar con la consola en el directorio del proyecto.
+- Paso 3: Se descargará un ZIP, lo pondremos en la carpeta de tu preferencia y por último lo descomprimimos.
+- Paso 4: Una vez descomprimido debemos entrar con la consola en el directorio del proyecto.
 [Si deseas saber más acerca de comandos de consola](http://www.falconmasters.com/offtopic/como-utilizar-consola-de-windows/). Por ejemplo, mi proyecto está en mi escritorio, iré con este comando:
  
-> cd C:\Users\ **$tu-usuario** \Desktop\todo-list-tutorial
-## Paso 5
-Por último escribiremos el comando de instalación. Este proceso puede tardar varios minutos ¡Puedes tomar un descanso!
+> cd C:\Users\ **$tu-usuario** \Deskt.
+
+- Paso 5 Por último escribiremos el comando de instalación. Este proceso puede tardar varios minutos ¡Puedes tomar un descanso!
 > npm install
  
-## Paso 6
-Usaremos VS Code, por lo tanto escribiremos el comando:
+- Paso 6: Usaremos VS Code, por lo tanto escribiremos el comando:
 > code .
  
 Automáticamente se abrirá en Visual Studio Code, pero deseamos abrirlo en el navegador, así que escribiremos este comando en la consola:
